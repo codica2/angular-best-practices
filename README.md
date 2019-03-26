@@ -1,9 +1,9 @@
 <h1 align="center">Angular best practices</h1>
 <p align="center">
   <a href="https://angular.io" target="_blank"><img src="https://img.shields.io/badge/-Angular-red.svg?logo=Angular"></a>
-  <a href="https://ngrx.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-NgRX-purple.svg"></a>
+  <a href="https://ngrx.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-NgRX-purple.svg?logo=Angular"></a>
   <a href="https://webpack.js.org/" target="_blank"><img src="https://img.shields.io/badge/Bundler-Webpack-%238DD6F9.svg?logo=Webpack"></a>
-  <a href="https://material.angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-Material-blue.svg"></a>
+  <a href="https://material.angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-Material-blue.svg?logo=Angular"></a>
   <a href="https://angular.io/guide/universal" target="_blank"><img src="https://img.shields.io/badge/Angular-Universal-red.svg?logo=Angular"></a>
   <a href="https://angular.io/guide/router" target="_blank"><img src="https://img.shields.io/badge/Angular-Router-orange.svg?logo=Angular"></a></p>
 <p align="center">
