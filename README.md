@@ -1,7 +1,16 @@
 <h1 align="center">Angular best practices</h1>
 <p align="center">
+  <a href="https://angular.io" target="_blank"><img src="https://img.shields.io/badge/-Angular-red.svg?logo=Angular"></a>
+  <a href="https://ngrx.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-NgRX-purple.svg"></a>
+  <a href="https://webpack.js.org/" target="_blank"><img src="https://img.shields.io/badge/Bundler-Webpack-%238DD6F9.svg?logo=Webpack"></a>
+  <a href="https://material.angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-Material-blue.svg"></a>
+  <a href="https://angular.io/guide/universal" target="_blank"><img src="https://img.shields.io/badge/Angular-Universal-red.svg?logo=Angular"></a>
+  <a href="https://angular.io/guide/router" target="_blank"><img src="https://img.shields.io/badge/Angular-Router-orange.svg?logo=Angular"></a></p>
+<p align="center">
   <a href="https://angular.io/" target="_blank"><img src="https://toddmotto.com/assets/img/categories/angular.svg" width="150"></a>
 </p>
+
+### Description
 
 Angular is a comprehensive JavaScript framework that is frequently used by developers for building cross-platform applications. Angular applications are quick, light, and simple-to-use. Therefore Angular is one of our favourite frameworks for web applications development.
 
@@ -329,6 +338,6 @@ In case users are using not only Google and performance on mobile and low-powere
 
 [![Codica logo](https://www.codica.com/assets/images/logo/logo.svg)](https://www.codica.com)
 
-Timebot is maintained and funded by Codica. The names and logos for Codica are trademarks of Codica.
+The names and logos for Codica are trademarks of Codica.
 
 We love open source software! See [our other projects](https://github.com/codica2) or [hire us](https://www.codica.com/) to design, develop, and grow your product.
